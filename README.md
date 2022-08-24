@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-gailchain24/gailchain24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gailchain24/gailchain24 is a ✨ special ✨ repository because its `README.md` (gailchain24@gmail.com) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
